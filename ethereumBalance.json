@@ -1,0 +1,28 @@
+{
+  "wallets": [
+    {
+      "address": "0x52908400098527886E0F7030069857D2E4169EE7",
+      "amount": 1.23
+    },
+    {
+      "address": "0x8617E340B3D01FA5F11F306F4090FD50E238070D",
+      "amount": 4.56
+    },
+    {
+      "address": "0xde709f2102306220921060314715629080e2fb77",
+      "amount": 7.89
+    },
+    {
+      "address": "0x27b1fdb04752bbc536007a920d24acb045561c26",
+      "amount": 9.7
+    },
+    {
+      "address": "0xde709f2102306220921060314715629080e2fb72",
+      "amount": 7.5
+    },
+    {
+      "address": "0x27b1fdb04752bbc536007a920d24acb045561c23",
+      "amount": 8.55
+    }
+  ]
+}
